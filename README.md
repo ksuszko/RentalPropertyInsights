@@ -19,7 +19,7 @@ neighbourhoods.geojson : geojson data for NYC from Airbnb website
 
 zillow_cleaned.csv : output of Data_Processing_Zillow.ipynb used in Data_Processing_Airbnb_Combination_ARIMA.ipynb
 
-# OBJECTIVE
+## OBJECTIVE
 Identifying Zip Codes for 2-bedroom sets in New York City that would generate the most profit on short term rentals
 
 Background:
@@ -30,7 +30,7 @@ The objective is to identify the zip codes would generate the most profit on sho
 
 Data: Publicly available data sets from Zillow and AirBnB
 
-# ASSUMPTIONS
+## ASSUMPTIONS
 1. The investor will pay for the property in cash 
 2. The time value of money discount rate is 0% 
 3. All properties and all square feet within each locale can be assumed to be homogeneous 
