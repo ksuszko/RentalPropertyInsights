@@ -42,8 +42,11 @@ Data: Publicly available data sets from Zillow and AirBnB
 
 ## Insight Summary
 For Short Term Investment: I suggest investing in 11434 and 10303
+
 For Medium Term Investment: I suggest investing in zip codes 10022 and 10036
+
 For Long Term Investment:  I suggest investing in zip codes 10013 and 10011
+
 Property and Listing Should Include: instant_bookable, tv, elevator, internet, pets_allowed
 
 
