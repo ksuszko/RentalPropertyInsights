@@ -1,7 +1,8 @@
 # RentalPropertyInsights
 This repository is a solution to the C1DC by Kasey Suszko
 
-Contents Include:
+## Contents Include:
+
 Airbnb_Data_Exploration.ipynb : offers exploratory insights into the Airbnb data so the rental property can set up their property to optimize rental potential
 
 Data_Processing_Zillow.ipynb : cleans the 'Zip_Zhvi_2bedroom.csv' file, uses ARIMA forecasting and CAGR, and prepares file to merge with Airbnb data. It adds many variables for ARIMA forecasts over 10+ years. Was meant to be used in further analysis, but was unable to due to time constraints
