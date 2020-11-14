@@ -39,3 +39,11 @@ Data: Publicly available data sets from Zillow and AirBnB
 6. There is no disruption to the general economic environment. The values estimated for 2020 are based on historical data, not known values.
 7. The rental agency is interested in selling the properties in the future
 8. All two bedrooms are assumed to have the same square footage and the same median property value as other 2-bedroom properties in their zipcode
+
+## Insight Summary
+For Short Term Investment: I suggest investing in 11434 and 10303
+For Medium Term Investment: I suggest investing in zip codes 10022 and 10036
+For Long Term Investment:  I suggest investing in zip codes 10013 and 10011
+Property and Listing Should Include: instant_bookable, tv, elevator, internet, pets_allowed
+
+
