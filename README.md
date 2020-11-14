@@ -12,7 +12,7 @@ The objective is to identify the zip codes would generate the most profit on sho
 
 Data: Publicly available data sets from Zillow and AirBnB
 
-#ASSUMPTIONS
+# ASSUMPTIONS
 1. The investor will pay for the property in cash 
 2. The time value of money discount rate is 0% 
 3. All properties and all square feet within each locale can be assumed to be homogeneous 
@@ -20,4 +20,4 @@ Data: Publicly available data sets from Zillow and AirBnB
 5. The company charges the same rent on Airbnb every night. This allows the Airbnb price to be used as a rent estimate
 6. There is no disruption to the general economic environment. The values estimated for 2020 are based on historical data, not known values.
 7. The rental agency is interested in selling the properties in the future
-8. All two bedrooms are assumed to have the same square footage and the same median property value as other 2 bedroom properties in their zipcode
+8. All two bedrooms are assumed to have the same square footage and the same median property value as other 2-bedroom properties in their zipcode
