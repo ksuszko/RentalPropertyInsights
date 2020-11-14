@@ -1,5 +1,22 @@
 # RentalPropertyInsights
-This repository is a solution to the C1DC
+This repository is a solution to the C1DC by Kasey Suszko
+
+Contents Include:
+Airbnb_Data_Exploration.ipynb : offers exploratory insights into the Airbnb data so the rental property can set up their property to optimize rental potential
+
+Data_Processing_Zillow.ipynb : cleans the 'Zip_Zhvi_2bedroom.csv' file, uses ARIMA forecasting and CAGR, and prepares file to merge with Airbnb data. It adds many variables for ARIMA forecasts over 10+ years. Was meant to be used in further analysis, but was unable to due to time constraints
+
+Data_Processing_Airbnb_Combination_ARIMA.ipynb : cleans the 'listings.csv' data, adds new variables such as a sentiment score from the summaries, annual rent based on Airbnb price, and profit/loss predictions based on selling the property in 2020, 2025, and 2030 (with use of ARIMA forecasts), has visualizations that are the primary data insights (2 interactive bar charts and an interactive map)
+
+ARIMA.py : includes most of the functions for Data_Processing_Zillow.ipynb . Functions were added to this file to enhance readability in the notebook file.
+
+DataCleaning.py : includes most of the functions for Data_Processing_Airbnb_Combination_ARIMA.ipynb . Functions were added to this file to enhance readability in the notebook file.
+
+cleaned_geodata.json : geojson data for NYC boroughs found online
+
+neighbourhoods.geojson : geojson data for NYC from Airbnb website
+
+zillow_cleaned.csv : output of Data_Processing_Zillow.ipynb used in Data_Processing_Airbnb_Combination_ARIMA.ipynb
 
 # OBJECTIVE
 Identifying Zip Codes for 2-bedroom sets in New York City that would generate the most profit on short term rentals
