@@ -1,9 +1,8 @@
 # RentalPropertyInsights
-This repository is a solution to the C1DC by Kasey Suszko
 
 ## CONTENTS:
 
-Kasey_Suszko_C1DC_Documentation.pdf : PDF document explaining my insights and data analysis
+Kasey_Suszko_Documentation.pdf : PDF document explaining my insights and data analysis
 
 Airbnb_Data_Exploration.ipynb : offers exploratory insights into the Airbnb data so the rental property can set up their property to optimize rental potential
 
